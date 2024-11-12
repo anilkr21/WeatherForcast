@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/WeatherForcast/static/css/main.ef593298.css",
+    "main.js": "/WeatherForcast/static/js/main.57af5619.js",
+    "static/media/Sunrise.jpg": "/WeatherForcast/static/media/Sunrise.1d155cfa5433ba13c2df.jpg",
+    "static/media/blue-sky-with-clouds.jpg": "/WeatherForcast/static/media/blue-sky-with-clouds.961fb2b2b73e6b9bd819.jpg",
+    "static/media/weathericons-regular-webfont.svg": "/WeatherForcast/static/media/weathericons-regular-webfont.3726e04a389324097351.svg",
+    "static/media/weathericons-regular-webfont.ttf": "/WeatherForcast/static/media/weathericons-regular-webfont.520c26b13fefaeef5c94.ttf",
+    "static/media/weathericons-regular-webfont.woff": "/WeatherForcast/static/media/weathericons-regular-webfont.e4d2c00ed56824803ce0.woff",
+    "static/media/weathericons-regular-webfont.eot": "/WeatherForcast/static/media/weathericons-regular-webfont.db8e6bec2adb2a3e2779.eot",
+    "index.html": "/WeatherForcast/index.html",
+    "main.ef593298.css.map": "/WeatherForcast/static/css/main.ef593298.css.map",
+    "main.57af5619.js.map": "/WeatherForcast/static/js/main.57af5619.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef593298.css",
+    "static/js/main.57af5619.js"
+  ]
+}
